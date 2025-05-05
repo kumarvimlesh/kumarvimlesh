@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vimlesh Kumar. 
-- 👀 A passionate Software Engineer, experienced in building high quality Enterprise web applications.
+- 👀 A passionate Software Engineer, experienced in building high quality and scalable systems.
 - LinkedIn : [linkedin.com/in/vimleshkumarlink/](https://www.linkedin.com/in/vimleshkumarlink/)
 <!---
 kumarvimlesh/kumarvimlesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
